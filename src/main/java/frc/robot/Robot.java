@@ -8,9 +8,6 @@
 package frc.robot;
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
 
-import com.ctre.phoenix.motorcontrol.can.TalonSRX;
-
-
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.drive.DifferentialDrive;
